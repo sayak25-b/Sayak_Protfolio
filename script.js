@@ -145,7 +145,7 @@ function typeEffect() {
 
         // ==================== API Configuration ====================
             const API_BASE_URL = window.location.protocol === 'file:'
-                ? 'https://sayak-protfolio.onrender.com/'
+                ? 'https://sayak-protfolio.onrender.com/api'
                 : '/api';
 
         // ==================== Form Validation and Submission ====================
