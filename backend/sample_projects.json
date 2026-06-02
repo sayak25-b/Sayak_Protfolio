@@ -1,0 +1,52 @@
+[
+  {
+    "title": "AI Chat Application",
+    "description": "Integrated OpenAI ChatGPT API to generate context-aware responses. Features real-time chat with persistent conversation history.",
+    "image": "https://www.zdnet.com/a/img/resize/5e4939fed2bfd8d06200f4b5ff89bee6e4ca5dbe/2023/08/03/6465b332-9100-4836-b0d8-737809568679/gettyimages-1541246944.jpg?auto=webp&width=1280",
+    "tags": ["Node.js", "Express.js", "MongoDB", "OpenAI API"],
+    "demoLink": "https://ai-chat-demo.netlify.app",
+    "githubLink": "https://github.com/sayak25/ai-chat-application",
+    "details": "This application showcases real-time AI integration with a backend API. Users can chat with an AI assistant powered by OpenAI's GPT model.",
+    "featured": true
+  },
+  {
+    "title": "Advanced 3D Weather Forecast App",
+    "description": "Beautiful weather application with 7-day forecast, location-based search, and smooth animations using WebGL.",
+    "image": "https://media.istockphoto.com/id/1365264688/vector/weather-forecast-meteorology-widget-app-interface.jpg?s=612x612&w=0&k=20&c=OSQHTnpLnK_p5jpyJ3i1hU7CWPSDUV_9JV69WqANgYk=",
+    "tags": ["JavaScript", "OpenWeatherMap API", "CSS3", "HTML5"],
+    "demoLink": "https://sayak25-b.github.io/Weather-forecast-app/",
+    "githubLink": "https://github.com/sayak25/Weather-forecast-app",
+    "details": "A responsive weather forecasting application that uses real-time weather data from OpenWeatherMap API.",
+    "featured": true
+  },
+  {
+    "title": "E-Commerce Platform",
+    "description": "Full-featured online shopping platform with user authentication, product catalog, shopping cart, payment integration, and admin panel for inventory management.",
+    "image": "https://via.placeholder.com/400x250/1a1a2e/00ff88?text=E-Commerce+Platform",
+    "tags": ["React", "Node.js", "MongoDB", "Stripe API"],
+    "demoLink": "https://ecommerce-demo.netlify.app",
+    "githubLink": "https://github.com/sayak25/ecommerce-platform",
+    "details": "A complete e-commerce solution with modern UI, secure payment processing, and user-friendly navigation.",
+    "featured": false
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "Dynamic portfolio website with MongoDB backend, real-time contact form submissions, and project showcase with filtering.",
+    "image": "https://via.placeholder.com/400x250/1a1a2e/00ff88?text=Portfolio",
+    "tags": ["HTML5", "CSS3", "JavaScript", "Express.js", "MongoDB"],
+    "demoLink": "https://sayak-portfolio.netlify.app",
+    "githubLink": "https://github.com/sayak25/portfolio",
+    "details": "This very portfolio! Built with modern web technologies and a scalable backend.",
+    "featured": true
+  },
+  {
+    "title": "Task Management App",
+    "description": "Full-stack to-do application with user accounts, task categorization, priority levels, and real-time synchronization.",
+    "image": "https://via.placeholder.com/400x250/1a1a2e/00ff88?text=Task+Manager",
+    "tags": ["React", "Firebase", "Material-UI", "JavaScript"],
+    "demoLink": "https://task-manager-demo.netlify.app",
+    "githubLink": "https://github.com/sayak25/task-manager",
+    "details": "A modern task management solution with real-time updates and intuitive user interface.",
+    "featured": false
+  }
+]
